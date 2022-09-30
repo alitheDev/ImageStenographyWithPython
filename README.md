@@ -1,10 +1,11 @@
-# ImageStenographyWithPython
+# Image Stenography With Python
 
-## To Run (cmd)
+## Run In (cmd)
 
 **_Python ImageStenography.py_**
 
 - Make sure you have python installed.
+- 👉 Check Latest Release for best experiences.
 
 ## About Project: 
 
