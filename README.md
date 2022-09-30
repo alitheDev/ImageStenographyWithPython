@@ -1,5 +1,10 @@
 # ImageStenographyWithPython
 
+## To Run (cmd)
+
+**_Python ImageStenography.py_**
+
+- Make sure you have python installed.
 
 ## About Project: 
 
